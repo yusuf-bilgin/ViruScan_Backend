@@ -1,0 +1,3 @@
+Scan starting...
+Scan finished.
+Scanning C:\Users\yusuf\Desktop\Depo\ders program2.png found no threats.
